@@ -6,7 +6,7 @@ This project is a sophisticated and highly interactive landing page for Kyara Be
 
 Download or Clone the Project Folder
 
-git clone https://github.com/your-username/kyara-beverages.git
+git clone https://github.com/dgaikwad04/TASK_kyara_beverages.git
 
 
 Open the VS Code
